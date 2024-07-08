@@ -3,7 +3,7 @@ In an effort to understand and predict customer churn, I conducted an in-depth a
 
 ### Table of Contents
 
-1. - [Introduction](#introduction)
+1. - [Introduction](#data-mining-techniques-for-customer-retention:a-churn-analysis)
 2. - [Project Overview](#project-overview)
 3. - [Dataset Description](#dataset-description)
 4. - [Steps](#steps)
@@ -36,19 +36,20 @@ My project focuses on analyzing customer churn in the telecommunications industr
 5. The one-hot encoding creates binary columns for each category in the original categorical features, making them suitable for numerical analysis. The original categorical columns are then dropped, and I am left with a DataFrame containing only numerical features.
 <img width="750" alt="Screenshot 2024-07-08 at 2 12 23 PM" src="https://github.com/YamouJ/Data-Mining-/assets/167350506/41944dc9-7e2d-4e2a-ac07-78b7f9c0c5b9">
 
-6. Specifying the Columns and Splitting the Dataset
+6. #### Specifying the Columns and Splitting the Dataset
 <img width="750" alt="Screenshot 2024-07-08 at 2 28 16 PM" src="https://github.com/YamouJ/Data-Mining-/assets/167350506/5ea73bcd-3852-4348-a572-84e67d551213">
 
-7. Standardize - Ensuring that features are on the same scale, which can improve the convergence of optimization algorithms and overall model performance.
+7. #### Standardization
+- Ensuring that features are on the same scale, which can improve the convergence of optimization algorithms and overall model performance.
 <img width="750" alt="Screenshot 2024-07-08 at 4 27 53 PM" src="https://github.com/YamouJ/Data-Mining-/assets/167350506/d8d6a5a4-382f-4224-986d-a8e13ec04040">
 
-8. PERFORMING 5-FOLD CROSS VALIDATION & CLASSIFICATION REPORTS
+9. PERFORMING 5-FOLD CROSS VALIDATION & CLASSIFICATION REPORTS
 <img width="750" alt="Screenshot 2024-07-08 at 4 31 16 PM" src="https://github.com/YamouJ/Data-Mining-/assets/167350506/a518beb6-003f-45a6-beac-617d4f9508c9">
 
-9. Bar Plot Depicting Feature Importance - Monthly Charges has the most importance while Phone Services has the least importance.
+10. Bar Plot Depicting Feature Importance - Monthly Charges has the most importance while Phone Services has the least importance.
 <img width="750" alt="Screenshot 2024-07-08 at 4 34 10 PM" src="https://github.com/YamouJ/Data-Mining-/assets/167350506/8b08e0a4-1bec-463b-8754-7a8e4081a773">
 
-10. Model vs Weighted Avg Of Various Metrics
+11. Model vs Weighted Avg Of Various Metrics
 <img width="1095" alt="Screenshot 2024-07-08 at 4 38 33 PM" src="https://github.com/YamouJ/Data-Mining-/assets/167350506/9522ece0-30e0-4d6f-bece-e94487092d8d">
 
 
