@@ -17,7 +17,7 @@ My project focuses on analyzing customer churn in the telecommunications industr
 <img width="500" alt="Screenshot 2024-07-05 at 4 51 38 PM" src="https://github.com/YamouJ/Data-Mining-/assets/167350506/155a5c3b-9ff1-4755-9ffc-8c3a7646669f">
 
 3. Randomly selecting a sample size of 1,869 from each class in the 'Churn' column effectively balances the dataset, ensuring unbiased representation across classes for further analysis.
-<img width="1059" alt="Screenshot 2024-07-08 at 2 07 26 PM" src="https://github.com/YamouJ/Data-Mining-/assets/167350506/35473624-f9fc-4640-a370-63240d80f71c">
+<img width="750" alt="Screenshot 2024-07-08 at 2 07 26 PM" src="https://github.com/YamouJ/Data-Mining-/assets/167350506/35473624-f9fc-4640-a370-63240d80f71c">
 
 5. The one-hot encoding creates binary columns for each category in the original categorical features, making them suitable for numerical analysis. The original categorical columns are then dropped, and I am left with a DataFrame containing only numerical features.
 <img width="750" alt="Screenshot 2024-07-08 at 2 12 23 PM" src="https://github.com/YamouJ/Data-Mining-/assets/167350506/41944dc9-7e2d-4e2a-ac07-78b7f9c0c5b9">
