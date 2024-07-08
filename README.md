@@ -1,6 +1,20 @@
 ## Data Mining Techniques for Customer Retention: A Churn Analysis
 In an effort to understand and predict customer churn, I conducted an in-depth analysis of a telecommunications company's dataset. The dataset comprises various attributes such as customer demographics, account information, and service usage patterns. To extract meaningful insights, I employed diverse data mining techniques, including feature selection, data preprocessing, and machine learning model evaluation. By dividing the dataset into training and test sets, I assessed each model's performance using metrics such as accuracy, precision, recall, and F1 scores. This approach enabled me to identify the most effective model for predicting customer churn, ultimately aiming to enhance customer retention strategies.
 
+### Table of Contents
+
+1. - [Introduction](#introduction)
+2. - [Project Overview](#project-overview)
+3. - [Dataset Description](#dataset-description)
+4. - [Steps](#steps)
+   - [Data Cleaning](#data-cleaning)
+   - [Specifying the Columns and Splitting the Dataset](#specifying-the-columns-and-splitting-the-dataset)
+   - [Standardization](#standardization)
+   - [5-Fold Cross Validation and Classification Reports](#5-fold-cross-validation-and-classification-reports)
+5. - [Results and Findings](#results-and-findings)
+   - [Bar Plot Depicting Feature Importance](#bar-plot-depicting-feature-importance)
+   - [Model vs Weighted Avg Of Various Metrics](#model-vs-weighted-avg-of-various-metrics)
+6. - [Conclusion](#conclusion)
 
 ## Project Overview 
 
@@ -22,7 +36,7 @@ My project focuses on analyzing customer churn in the telecommunications industr
 5. The one-hot encoding creates binary columns for each category in the original categorical features, making them suitable for numerical analysis. The original categorical columns are then dropped, and I am left with a DataFrame containing only numerical features.
 <img width="750" alt="Screenshot 2024-07-08 at 2 12 23 PM" src="https://github.com/YamouJ/Data-Mining-/assets/167350506/41944dc9-7e2d-4e2a-ac07-78b7f9c0c5b9">
 
-6. Specifing the columns that I will be using & splitting my dataset
+6. Specifying the Columns and Splitting the Dataset
 <img width="750" alt="Screenshot 2024-07-08 at 2 28 16 PM" src="https://github.com/YamouJ/Data-Mining-/assets/167350506/5ea73bcd-3852-4348-a572-84e67d551213">
 
 7. Standardize - Ensuring that features are on the same scale, which can improve the convergence of optimization algorithms and overall model performance.
