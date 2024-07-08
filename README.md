@@ -27,3 +27,6 @@ My project focuses on analyzing customer churn in the telecommunications industr
 
 7. Standardize - Ensuring that features are on the same scale, which can improve the convergence of optimization algorithms and overall model performance.
 <img width="750" alt="Screenshot 2024-07-08 at 4 27 53 PM" src="https://github.com/YamouJ/Data-Mining-/assets/167350506/d8d6a5a4-382f-4224-986d-a8e13ec04040">
+
+8. PERFORMING 5-FOLD CROSS VALIDATION & CLASSIFICATION REPORTS
+<img width="750" alt="Screenshot 2024-07-08 at 4 31 16 PM" src="https://github.com/YamouJ/Data-Mining-/assets/167350506/a518beb6-003f-45a6-beac-617d4f9508c9">
