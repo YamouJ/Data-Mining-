@@ -21,7 +21,6 @@ In an effort to understand and predict customer churn, I conducted an in-depth a
 ### Dataset Description: 
 My project focuses on analyzing customer churn in the telecommunications industry, utilizing data mining techniques in Python to uncover key patterns and predictors. By examining detailed customer data, including demographics, account information, and service usage, the project aims to identify the factors contributing to customer attrition. The analysis reveals critical insights, such as the impact of contract type and payment method on churn rates, and the role of service quality in customer retention. The project underscores the importance of targeted strategies to enhance customer loyalty and reduce churn in the competitive telecommunications sector.
 
-### Steps 
 ### Data Cleaning 
 1. To begin the data cleaning process, I examined the data types of each column in the dataset using print(df.dtypes) in Python Pandas. This step allowed me to understand the initial structure of the data and identify any potential mismatches between expected and actual data types, ensuring consistency and accuracy throughout the analysis.
 
