@@ -25,4 +25,5 @@ My project focuses on analyzing customer churn in the telecommunications industr
 6. Specifing the columns that I will be using & splitting my dataset
 <img width="750" alt="Screenshot 2024-07-08 at 2 28 16 PM" src="https://github.com/YamouJ/Data-Mining-/assets/167350506/5ea73bcd-3852-4348-a572-84e67d551213">
 
-
+7. Standardize - Ensuring that features are on the same scale, which can improve the convergence of optimization algorithms and overall model performance.
+<img width="750" alt="Screenshot 2024-07-08 at 4 27 53 PM" src="https://github.com/YamouJ/Data-Mining-/assets/167350506/d8d6a5a4-382f-4224-986d-a8e13ec04040">
