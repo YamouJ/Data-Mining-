@@ -22,4 +22,7 @@ My project focuses on analyzing customer churn in the telecommunications industr
 5. The one-hot encoding creates binary columns for each category in the original categorical features, making them suitable for numerical analysis. The original categorical columns are then dropped, and I am left with a DataFrame containing only numerical features.
 <img width="750" alt="Screenshot 2024-07-08 at 2 12 23 PM" src="https://github.com/YamouJ/Data-Mining-/assets/167350506/41944dc9-7e2d-4e2a-ac07-78b7f9c0c5b9">
 
+6. Specifing the columns that I will be using.
+<img width="1087" alt="Screenshot 2024-07-08 at 2 28 16 PM" src="https://github.com/YamouJ/Data-Mining-/assets/167350506/5ea73bcd-3852-4348-a572-84e67d551213">
+
 
