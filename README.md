@@ -30,3 +30,11 @@ My project focuses on analyzing customer churn in the telecommunications industr
 
 8. PERFORMING 5-FOLD CROSS VALIDATION & CLASSIFICATION REPORTS
 <img width="750" alt="Screenshot 2024-07-08 at 4 31 16 PM" src="https://github.com/YamouJ/Data-Mining-/assets/167350506/a518beb6-003f-45a6-beac-617d4f9508c9">
+
+9. Bar Plot Depicting Feature Importance - Monthly Charges has the most importance while Phone Services has the least importance.
+<img width="750" alt="Screenshot 2024-07-08 at 4 34 10 PM" src="https://github.com/YamouJ/Data-Mining-/assets/167350506/8b08e0a4-1bec-463b-8754-7a8e4081a773">
+
+10. Model vs Weighted Avg Of Various Metrics
+<img width="1095" alt="Screenshot 2024-07-08 at 4 38 33 PM" src="https://github.com/YamouJ/Data-Mining-/assets/167350506/9522ece0-30e0-4d6f-bece-e94487092d8d">
+
+
